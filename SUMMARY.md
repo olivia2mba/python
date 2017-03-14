@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [基础篇](chapter1.md)
 * [代码编写习惯](代码编写习惯.md)
 * [变量](变量.md)
