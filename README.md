@@ -1,3 +1,16 @@
-# My Awesome Book
+这本书介绍的是自己最近在自学python的过程中整理的知识点。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+整本书的结构主要包括两大部分：基础篇、进阶篇。
+
+
+
+基础篇主要包括：代码编写习惯、变量、运算符、数据类型（整型、浮点型、字符串、布尔值）、列表、元组、字典、集合、控制流语句（if, while, for）、推导式。
+
+
+
+进阶篇主要包括：函数、模块、包、类、异常、测试。
+
+![](/assets/Python自学知识体系整理.png)
+
